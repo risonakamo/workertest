@@ -1,0 +1,7 @@
+{
+  "name": "boi-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "workerpool": "^5.0.0"
+  }
+}
