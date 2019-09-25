@@ -23,7 +23,13 @@ function thing2()
     console.log("done3");
 }
 
+function thing3()
+{
+    return "allo";
+}
+
 workerpool.worker({
     thing,
-    thing2
+    thing2,
+    thing3
 });
